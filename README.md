@@ -1,4 +1,4 @@
-# DOM-Bases-XSS-Lab
+# DOM-Based-XSS-Lab
 DOM-based cross-site scripting (DOM-XSS) is a client side vulnerability where 
 attacker-controlled data is interpreted by the browser in a way that modifies the 
 page’s DOM (Document Object Model) and allows script execution. Unlike reflected 
